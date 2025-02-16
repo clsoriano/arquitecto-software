@@ -45,7 +45,7 @@
 - Kubernetes (Contenedor de aplicaciones)
 - Uso de clustes y pods para manejo de escalibilidad y disponibilidad de la aplicacion
 
-# ####################################### # # ####################################### # #
+*************************
 
 # RETO 2
 # NOTAS:
