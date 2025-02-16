@@ -2,12 +2,12 @@
 # NOTAS:
 
 # CLIENTS
-# presentacion de posibles consumidores de los servicios expuestos en AWS
+- presentacion de posibles consumidores de los servicios expuestos en AWS
 
 # FRONTEND 
-# Definicion de elementos de ruteo (Route 53)
-# Disponibilizacion de sitio web Angular utilizando S3 Bucket como almacenador de sitio estatico
-# Amazon Cloudfront para definir el dominio de exposicion y TLS para cifrado de comunicacion.
+- Definicion de elementos de ruteo (Route 53)
+- Disponibilizacion de sitio web Angular utilizando S3 Bucket como almacenador de sitio estatico
+- Amazon Cloudfront para definir el dominio de exposicion y TLS para cifrado de comunicacion.
 
 # SECURITY
 # WAF y Shield para proteccion de ataques hacia el sitio web y los microservicios para disponibilizar la informacion de los clientes
